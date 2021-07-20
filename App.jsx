@@ -9,6 +9,7 @@ function App(){
         <Note />
         <Note />
         <Note />
+        <Note />
     </div>);
 }
 export default App;
